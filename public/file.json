@@ -1,0 +1,58 @@
+{
+    "schedule": [
+        {
+            "id": 1,
+            "time": "9am",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 2,
+            "time": "10am",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 3,
+            "time": "11am",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 4,
+            "time": "12pm",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 5,
+            "time": "1pm",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 6,
+            "time": "2pm",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 7,
+            "time": "3pm",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 8,
+            "time": "4pm",
+            "name": "",
+            "phone": ""
+        },
+        {
+            "id": 9,
+            "time": "5pm",
+            "name": "",
+            "phone": ""
+        }
+    ]
+}

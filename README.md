@@ -1,7 +1,7 @@
 # Scheduler App
 
-open a terminal and cd to the directory you cloned this to and run the following:
+open a terminal, cd to the directory you cloned this into, and run the following:
 ```
 npm i
-npm start
+npm run start
 ```
